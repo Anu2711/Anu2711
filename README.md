@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 -->
 
 Hi there, I'm Anusha! 👋
+
 🚀 About Me
 I'm a Data Scientist at a Network International in Dubai, U.A.E., passionate about building machine learning solutions that solve real-world problems. I recently graduated from the University of Waterloo where I majored in Data Science and minored in Economics.
 I love seeing how data is applied in the real world across different industries and have made it a point to explore companies in various sectors—from transit at RideCo, to e-commerce at Babylist, and now in the fintech space at Network International. This diverse experience has given me a unique perspective on how data-driven solutions can transform businesses across different domains.
+
 🛠️ Technical Skills
 Languages & Tools:
 
